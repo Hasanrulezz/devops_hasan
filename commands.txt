@@ -6,3 +6,4 @@ git commit
 got restore
 git status
 git log
+git config --global
